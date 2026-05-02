@@ -1,0 +1,1 @@
+I intend to do simple Weather app, which would show the weather data in chosen area and have a disaster alert system.
